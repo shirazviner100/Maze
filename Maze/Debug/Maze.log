@@ -1,0 +1,10 @@
+﻿  ListNode.cpp
+  Main.cpp
+c:\users\shirazviner\source\repos\maze\maze\main.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze.cpp
+  Play.cpp
+  Point.cpp
+  Queue.cpp
+  Stack.cpp
+  Generating Code...
+  Maze.vcxproj -> C:\Users\shirazviner\source\repos\Maze\Debug\Maze.exe
